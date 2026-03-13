@@ -64,6 +64,7 @@ Half Wave:
 <img width="996" height="677" alt="Screenshot 2026-03-13 133306" src="https://github.com/user-attachments/assets/331a67b0-347c-4d8e-a89a-3ac7ad41c0e0" />
 <img width="373" height="506" alt="Screenshot 2026-03-13 133407" src="https://github.com/user-attachments/assets/6b1cb848-80de-4ab9-9673-49720c4a0647" />
 
+WAVEFORM:
 Full Wave:
 <img width="857" height="671" alt="Screenshot 2026-03-13 133353" src="https://github.com/user-attachments/assets/005a9745-6f46-4ba3-8009-0b529c8993af" />
 <img width="374" height="526" alt="Screenshot 2026-03-13 133421" src="https://github.com/user-attachments/assets/e4dbc876-c733-4fb9-91ab-db41bc0ac0a2" />
