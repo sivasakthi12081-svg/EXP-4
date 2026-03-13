@@ -36,17 +36,37 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
+Half wave rectifier without filter:
+<img width="1012" height="569" alt="Screenshot 2026-03-13 133521" src="https://github.com/user-attachments/assets/4600db5a-51bb-41f8-94be-642331af7b8a" />
+<img width="1172" height="669" alt="Screenshot 2026-03-13 133155" src="https://github.com/user-attachments/assets/fbf8bd69-9ab7-4110-92cc-056835127217" />
+
 Half wave rectifier with filter:
+<img width="1016" height="576" alt="Screenshot 2026-03-13 133541" src="https://github.com/user-attachments/assets/38a52abc-4c9c-4738-8cfa-d9ed19d5cdaf" />
+<img width="1186" height="670" alt="Screenshot 2026-03-13 133244" src="https://github.com/user-attachments/assets/244f1fc5-db77-44f7-870b-3cb89a542919" />
 
-Bridge rectifier with filter:
+Full Wave rectifier without filter:
+<img width="1006" height="572" alt="Screenshot 2026-03-13 133603" src="https://github.com/user-attachments/assets/4843c9cb-1de9-4dc5-a76f-91fd234332da" />
+<img width="1031" height="661" alt="Screenshot 2026-03-13 133317" src="https://github.com/user-attachments/assets/e367e6b1-e397-4b05-b8eb-b6eb8d194bc8" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Full Wave rectifier with filter:
+<img width="1015" height="572" alt="Screenshot 2026-03-13 133614" src="https://github.com/user-attachments/assets/5a2d3ae1-e422-44df-a257-d78c5d18ca51" />
+<img width="1003" height="654" alt="Screenshot 2026-03-13 133329" src="https://github.com/user-attachments/assets/cc87c8b0-81ee-4f86-94ec-bc6e7e9efdab" />
+
+TABULAR COLUMN:
+Half Wave Rectifier:
+<img width="1187" height="652" alt="Screenshot 2026-03-13 133255" src="https://github.com/user-attachments/assets/9cb989ee-1aac-44fb-9027-2525f688b794" />
+
+Full Wave Rectifier:
+<img width="1183" height="514" alt="Screenshot 2026-03-13 133342" src="https://github.com/user-attachments/assets/ee936c49-77ce-4692-8c98-81aea32fda84" />
 
 WAVEFORM:
+Half Wave:
+<img width="996" height="677" alt="Screenshot 2026-03-13 133306" src="https://github.com/user-attachments/assets/331a67b0-347c-4d8e-a89a-3ac7ad41c0e0" />
+<img width="373" height="506" alt="Screenshot 2026-03-13 133407" src="https://github.com/user-attachments/assets/6b1cb848-80de-4ab9-9673-49720c4a0647" />
 
+Full Wave:
+<img width="857" height="671" alt="Screenshot 2026-03-13 133353" src="https://github.com/user-attachments/assets/005a9745-6f46-4ba3-8009-0b529c8993af" />
+<img width="374" height="526" alt="Screenshot 2026-03-13 133421" src="https://github.com/user-attachments/assets/e4dbc876-c733-4fb9-91ab-db41bc0ac0a2" />
 
 RESULT:
 
